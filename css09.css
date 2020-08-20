@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+header{
+	font-size: 2em;
+	font-weight: bolder;
+	color: aquamarine;
+	text-shadow: 5px 5px 5px gray;
+}
+hr{
+	color: blanchedalmond;
+	border-width: 5px;
+}
+h2, p{
+	color: #6E793E;
+}
+p{
+	text-align: justify;
+	line-height: 20px;
+}
+.coffee{
+	float: right;
+	width: 320px;
+	height:  240px;
+}
+nav{
+	background-color:darkturquoise;
+	text-align: center;
+	padding: 15px;
+}
+a{
+	color: #000000;
+	font-size: 1.2em;
+	text-decoration: none;
+	margin-right: 20px;
+}
+a:hover{
+	color: red;
+	font-size: 1.5em;
+	font-weight:700;
+}
